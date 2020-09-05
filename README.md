@@ -1,4 +1,4 @@
-# VideoGameSite
+# REDHERO DASHBOARD
 
 ## Build Setup
 
